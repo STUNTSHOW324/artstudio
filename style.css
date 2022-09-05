@@ -395,6 +395,10 @@ form {
 	.container {
 		align-items: center;
 		padding: 0px;
+		align-content: space-around;
+	}
+	.container p {
+		width: 100%;
 	}
 
 	.foto {
